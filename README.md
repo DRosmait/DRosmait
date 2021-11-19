@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DRosmait ro just Dima
+- 👋 Hi, I’m @DRosmait or just Dima
 - 👀 I’m interested in WEB and Mobile development
 - 🌱 I’m currently learning Microservices with Node.JS and Next.JS
 - 💞️ I’m looking to collaborate on interesting projects
